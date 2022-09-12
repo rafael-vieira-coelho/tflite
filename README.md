@@ -1,4 +1,4 @@
-# tflite
+# Tensorflow Lite (tflite)
 
 Aula 1 - Introdução ao Tensorflow Lite
 
